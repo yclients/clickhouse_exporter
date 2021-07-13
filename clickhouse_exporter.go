@@ -1,4 +1,4 @@
-package main // import "github.com/Percona-Lab/clickhouse_exporter"
+package main // import "github.com/akimrx/clickhouse_exporter"
 
 import (
 	"flag"
